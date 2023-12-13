@@ -1,6 +1,11 @@
 # Backend Challenge
 This is a challenge to hire developers made by a well-known bank.
 
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,prisma)](https://skillicons.dev)
+
+
 ## 🎲 Installing and Running 
 ```
 git clone https://github.com/ryder-dev/bank-backend-chalenge.git
